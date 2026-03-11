@@ -1,4 +1,6 @@
-﻿#include <iostream>
+// 김지우 202500981 컴퓨터공학부
+
+#include <iostream>
 
 using namespace std;
 
@@ -162,3 +164,4 @@ int main() {
     }
     return 0;   
 }
+
